@@ -11,4 +11,4 @@ We introduce [Seg2Act](https://arxiv.org/abs/2410.06802), a global context-aware
 
 ## Todo
 
-[] The code for this work will be released in a few days.
+- [ ] The code for this work will be released in a few days.
