@@ -110,6 +110,7 @@ Please note that the current evaluation code is applicable only to models traine
 
 ## Citation
 
+``` 
 @misc{li2024seg2actglobalcontextawareaction,
       title={Seg2Act: Global Context-aware Action Generation for Document Logical Structuring}, 
       author={Zichao Li and Shaojie He and Meng Liao and Xuanang Chen and Yaojie Lu and Hongyu Lin and Yanxiong Lu and Xianpei Han and Le Sun},
@@ -119,3 +120,4 @@ Please note that the current evaluation code is applicable only to models traine
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2410.06802}, 
 }
+```
