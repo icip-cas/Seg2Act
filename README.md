@@ -3,7 +3,7 @@
 
 ## TL;DR
 
-We introduce Seg2Act, a global context-aware action generation approach for document logical structuring.
+We introduce [Seg2Act](https://arxiv.org/abs/2410.06802), a global context-aware action generation approach for document logical structuring.
 
 ## News
 
