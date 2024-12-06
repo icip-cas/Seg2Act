@@ -1,4 +1,4 @@
-# Seg2Act: Global Context-aware Generation for Document Logical Structuring
+# Seg2Act: Global Context-aware Action Generation for Document Logical Structuring
 
 
 ## TL;DR
