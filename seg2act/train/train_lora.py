@@ -111,7 +111,7 @@ def train(
         full_prompt = generate_prompt(datapoint)
         tokenized_full_prompt = tokenize(full_prompt)
         if not train_on_inputs:
-            user_prompt = generate_prompt({**datapoint, "action": ""})
+            user_prompt = generate_prompt({**datapoint, "output": ""})
             tokenized_user_prompt = tokenize(user_prompt, add_eos_token=False)
             user_prompt_len = len(tokenized_user_prompt["input_ids"])
             tokenized_full_prompt["labels"] = [-100] * user_prompt_len \
